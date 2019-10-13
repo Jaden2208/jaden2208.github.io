@@ -87,7 +87,7 @@ int main(){
 
 이 때 필요한 것이 **pair 라이브러리** 다.
 
-**pair 라이브러리** 에 대한 예제 및 설명은 [여기(클릭)](https://jaden2208.github.io/algorithm/2019/10/11/algorithm-stl-sort-pair.html)에서 다루도록 하겠다.
+**pair 라이브러리** 에 대한 예제 및 설명은 [여기(클릭)](https://jaden2208.github.io/algorithm/2019/10/13/algorithm-stl-sort-pair.html)에서 다루도록 하겠다.
 
 <br>
 
