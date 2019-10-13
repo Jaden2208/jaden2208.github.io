@@ -52,10 +52,14 @@ last_modified_at: 2019-10-13T
  : 프로그래머는 추상화에 의존해야지, 구체화에 의존하면 안된다.
 
 
-  <br>
+<br>
 
-  ---
-  
-  ###### 참고 사이트
-  https://gmlwjd9405.github.io/2018/07/06/design-pattern.html
-  https://brunch.co.kr/@oemilk/12
+---
+
+###### 참고 사이트
+
+<br>
+https://gmlwjd9405.github.io/2018/07/06/design-pattern.html
+
+<br>
+https://brunch.co.kr/@oemilk/12
