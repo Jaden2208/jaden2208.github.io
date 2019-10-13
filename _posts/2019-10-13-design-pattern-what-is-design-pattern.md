@@ -30,7 +30,9 @@ last_modified_at: 2019-10-13T
  * Solution
    - 문제를 해결하도록 설계를 구성하는 요소들과 그 요소들 사이의 관계, 책임, 협력 관계를 기술한다.
 <br>
+
 ---
+
 #### SOLID 원칙
  > 객체 지향 설계에서 지켜줘야 할 5개의 원칙
 
@@ -53,6 +55,7 @@ last_modified_at: 2019-10-13T
   <br>
 
   ---
+  
   ###### 참고 사이트
   https://gmlwjd9405.github.io/2018/07/06/design-pattern.html
   https://brunch.co.kr/@oemilk/12
