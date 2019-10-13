@@ -109,7 +109,7 @@ int main(){
 : 최악의 경우에는 O(n<sup>2</sup>)이다.
 
 다 정렬 되어있는 경우에는 분할의 이점을 활용하지 못한다.
-정렬이 되어있는 경우에는 [삽입정렬](https://jaden2208.github.io/algorithm/2019/10/11/algorithm-bubble-sort.html)을 통해 퀵정렬보다 더 빠르게 풀어낼 수 있다.
+정렬이 되어있는 경우에는 [삽입정렬](https://jaden2208.github.io/algorithm/2019/10/11/algorithm-insertion-sort.html)을 통해 퀵정렬보다 더 빠르게 풀어낼 수 있다.
 <br>
 *퀵정렬이 무조건 빠른 것은 아니다!*
 <br>

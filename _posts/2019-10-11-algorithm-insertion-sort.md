@@ -61,7 +61,7 @@ int main(){
 ---
 #### 시간 복잡도 O(n<sup>2</sup>)
 선택정렬, 버블정렬과 동일한 O(n<sup>2</sup>) 이지만
-원소 간의 이동이 **필요한 만큼만** 이루어지므로 [선택](https://jaden2208.github.io/algorithm/2019/10/10/algorithm-insertion-sort.html), [버블](https://jaden2208.github.io/algorithm/2019/10/11/algorithm-bubble-sort.html), [삽입](#삽입-정렬)정렬 중에서는 **가장 효율적** 인 알고리즘이다.
+원소 간의 이동이 **필요한 만큼만** 이루어지므로 [선택](https://jaden2208.github.io/algorithm/2019/10/10/algorithm-selection-sort.html), [버블](https://jaden2208.github.io/algorithm/2019/10/11/algorithm-bubble-sort.html), [삽입](#삽입-정렬)정렬 중에서는 **가장 효율적** 인 알고리즘이다.
 
 <br>
 

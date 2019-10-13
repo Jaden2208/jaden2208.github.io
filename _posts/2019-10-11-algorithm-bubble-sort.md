@@ -62,7 +62,7 @@ int main(){
 ---
 #### 시간 복잡도 O(n<sup>2</sup>)
 10 + 9 + 8 + ... + 1 번, 즉 10 * (10 + 1) / 2 번의 비교 연산이 이루어진다.
-따라서 시간복잡도는 [선택정렬](https://jaden2208.github.io/algorithm/2019/10/10/algorithm-insertion-sort.html)과 동일한 O(n<sup>2</sup>)이다. 하지만 [선택정렬](https://jaden2208.github.io/algorithm/2019/10/10/algorithm-insertion-sort.html)과 다르게 swap이 계속해서 이루어지므로 **더 비효율적** 인 알고리즘이다.
+따라서 시간복잡도는 [선택정렬](https://jaden2208.github.io/algorithm/2019/10/10/algorithm-selection-sort.html)과 동일한 O(n<sup>2</sup>)이다. 하지만 [선택정렬](https://jaden2208.github.io/algorithm/2019/10/10/algorithm-selection-sort.html)과 다르게 swap이 계속해서 이루어지므로 **더 비효율적** 인 알고리즘이다.
 
 <br>
 
