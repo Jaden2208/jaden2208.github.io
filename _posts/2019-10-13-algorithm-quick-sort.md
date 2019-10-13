@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[정렬] 퀵 정렬 (Quick Sort)"
+title: "[정렬] 퀵정렬 (Quick Sort)"
 categories:
   - Algorithm
 tags:
