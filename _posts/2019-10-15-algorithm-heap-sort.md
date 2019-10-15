@@ -41,7 +41,7 @@ last_modified_at: 2019-10-13T
 > 7 6 5 8 3 4 9 1 2
 
 
-<center><img src="/images/heap_tree1.png" width="50%" height="50%"></img></center>
+<center><img src="/images/heap_tree1.png" width="50%" height="50%"></center>
 
 <br>
 
@@ -56,13 +56,13 @@ last_modified_at: 2019-10-13T
 
 ##### (3) 그리고, 자식노드 8과 부모노드 6과 비교하면, 이번에는 자식노드 값이 부모노드 값 보다 크므로 서로 바꿔준다.
 
-<center><img src="/images/heap_tree2.png" width="50%" height="50%"></img></center>
+<center><img src="/images/heap_tree2.png" width="50%" height="50%"></center>
 
 <br>
 
 ##### (4) 위치가 바뀐 자식노드 8의 부모노드가 바뀌었다. 다시 한번 바뀐 부모노드 7과 비교한다. "자식노드 8 > 부모노드 7" 이므로 서로 위치를 바꿔준다.
 
-<center><img src="/images/heap_tree3.png" width="50%" height="50%"></img></center>
+<center><img src="/images/heap_tree3.png" width="50%" height="50%"></center>
 
 ##### (5) (1)~(4)의 과정을 반복한다.
 
@@ -87,7 +87,7 @@ for(int i=1; i<number; i++){
 <br>
 
 [최대힙](#최대-힙) 구조로 정렬된 모습
-<center><img src="/images/heap_tree4.png" width="50%" height="50%"></img>
+<center><img src="/images/heap_tree4.png" width="50%" height="50%">
 </center>
 
 > 9 7 8 6 3 4 5 1 2
@@ -100,17 +100,17 @@ for(int i=1; i<number; i++){
 
 ##### (1) 루트 노드 9와 마지막 리프 노드 2의 위치를 서로 바꿔준다.
 
-<center><img src="/images/heap_tree5.png" width="50%" height="50%"></img>
+<center><img src="/images/heap_tree5.png" width="50%" height="50%">
 </center>
 
 ###### (2) 그리고 루트 노드 2의 자식 노드들 중 큰 값 8을 찾아 그 자식 노드 8과 루트노드 2의 값을 비교해 자식이 더 크면 서로 교환한다.
 
-<center><img src="/images/heap_tree6.png" width="50%" height="50%"></img>
+<center><img src="/images/heap_tree6.png" width="50%" height="50%">
 </center>
 
 ###### (3) 부모노드 2의 자식노드를 비교하여 (2)와 같은 방법으로 위치를 바꿔준다.
 
-<center><img src="/images/heap_tree7.png" width="50%" height="50%"></img>
+<center><img src="/images/heap_tree7.png" width="50%" height="50%">
 </center>
 
 - 배열의 맨 마지막 원소 9를 제외하고 나머지 노드들에 대해서 최대 힙 구조를 가지게 된다.
