@@ -2,9 +2,9 @@
 layout: post
 title: Sample Title
 categories:
-  - Test
+
 tags:
-  - sample
+
 last_modified_at: 1994-01-17T
 ---
 
