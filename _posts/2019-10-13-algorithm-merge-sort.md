@@ -23,7 +23,7 @@ last_modified_at: 2019-10-13T
 <br>
 
 <center>
-<img src="/images/merge.png" width="80%" height="80%"></img>
+<img src="/images/merge.png" width="80%" height="80%">
 
 [그림 출처 : [코린이의 얕은 블로그](https://sexycoder.tistory.com/73)]
 </center>
