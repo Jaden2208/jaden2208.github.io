@@ -10,7 +10,7 @@ tags:
 last_modified_at: 2019-10-18T
 ---
 <br>
-### BFS (Breadth First Search)
+### DFS (Depth First Search)
 * 탐색을 할 때 깊이를 우선으로 하여 탐색하는 탐색 알고리즘이다.
 * [BFS](https://jaden2208.github.io/algorithm/2019/10/17/algorithm-bfs.html)와 마찬가지로 '맹목적인 탐색'을 하고자 할 때 사용할 수 있다.
 
