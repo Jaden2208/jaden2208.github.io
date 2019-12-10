@@ -26,7 +26,7 @@ last_modified_at: 2019-12-10T
 
 **RxJava**를 사용하기 위해서는 **Observer 패턴**에 대한 이해 또한 필요하다.
 
-**Ovserver 패턴**에 대한 설명은 [여기](링크)에 있다.
+**Ovserver 패턴**에 대한 설명은 [여기](https://jaden2208.github.io/android/2019/12/10/Android-observer-rxjava.html)에 있다.
 
 
   <br>

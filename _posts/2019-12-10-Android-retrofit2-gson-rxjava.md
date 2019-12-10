@@ -13,6 +13,17 @@ tags:
   - rxjava
 last_modified_at: 2019-12-10T
 ---
+
+##### index
+* [Retrofit2](#Retrofit2)
+* [Gson](#Gson)
+* [Rxjava](#RxJava)
+
+<br>
+
+---
+
+
 ### Retrofit2
 
 HTTP를 처리하기 위해서는 만들어야 할 루틴들이 너무 많다.
@@ -98,7 +109,7 @@ Retrofit retrofit = new Retrofit.Builder()
 
 보통 웹서비스는 비동기적으로 응답을 처리해야한다. 따라서 이에 필요한 추가 어댑터인 RxJava를 사용하는 경우에 gradle에 다음과 같이 추가한다.
 
-(RxJava에 대한 자세한 설명은 [여기](링크))
+(RxJava에 대한 자세한 설명은 [여기](https://jaden2208.github.io/android/2019/12/10/Android-rxjava.html))
 
 
 ##### 1. Gradle 파일에 dependencies 추가

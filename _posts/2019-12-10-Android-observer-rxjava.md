@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "RxJava란"
+title: "Observer 패턴"
 categories:
   - Android
 tags:
   - android
   - rxjava
   - observer
+  - rxkotlin
 last_modified_at: 2019-12-10T
 ---
 ### Observer 패턴
